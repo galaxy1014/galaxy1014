@@ -1,4 +1,4 @@
-# galaxy1014(Kim Ju Hoon)  
+# galaxy1014(Ju Hoon Kim)  
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:GalaxyKim@gmail.com)
 
